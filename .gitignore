@@ -14,3 +14,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore Spring files. Added by Felix 3th, Nov, 2014
+/spring/*.pid
